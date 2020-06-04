@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-01-29 18:00:00
+title: "Detección de cáncer con DenseNet"
 tags: reinforcement-learning gan rnn
 author: Ale Moots
 ---
