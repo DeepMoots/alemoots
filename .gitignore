@@ -8,8 +8,8 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
-./script
-./.github
+script/
+github/
 # Gems
 *.gem
 
@@ -21,7 +21,9 @@ Gemfile.lock
 .Trashes
 ehthumbs.db
 Thumbs.db
-.travis.yml
-.CODE_OF_CONDUCT.md
+travis.yml
+CODE_OF_CONDUCT.md
 *.markdown
 *.gemspec
+*.lock
+rubocop.yml
