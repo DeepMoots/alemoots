@@ -1,5 +1,6 @@
 title: Ale Moots
-author:
+author: Ale Moots
+baseurl: "/alemoots"
   #name: alemoots
   #email: moots.ale@gmail.com
 #description: > # this means to ignore newlines until "show_excerpts:"
